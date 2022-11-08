@@ -1,0 +1,6 @@
+build/default/production/main.o:  \
+	D:/TP_PIC18/PORT_IO_GRAFCET_MASM.X/main.asm  \
+	D:/TP_PIC18/PORT_IO_GRAFCET_MASM.X/P18F45K22.INC  \
+	D:/TP_PIC18/PORT_IO_GRAFCET_MASM.X/CONFIG.INC  \
+	D:/TP_PIC18/PORT_IO_GRAFCET_MASM.X/Temporisation.inc  \
+
